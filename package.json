@@ -1,7 +1,7 @@
 {
-    "name": "xxxx",
+    "name": "moonglowbaydb",
     "version": "1.0.0",
-    "description": "xxxx",
+    "description": "Simple website application housing information about the game Moonglow Bay.",
     "main": "server.js",
     "scripts": {
         "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",

@@ -1,4 +1,4 @@
-# XXXX
+# Moonglow Bay DB
 
 ![project owner](https://img.shields.io/badge/owner-Connerjm-blueviolet)
 
@@ -19,4 +19,4 @@ TODO
 
 ## License
 
-XXXX is released under the [MIT license](https://www.opensource.org/licenses/mit).
+Moonglow Bay DB is released under the [MIT license](https://www.opensource.org/licenses/mit).
